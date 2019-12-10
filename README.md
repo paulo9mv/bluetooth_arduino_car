@@ -1,2 +1,2 @@
-# bluetooth_arduino_car
-Car controlled by bluetooth using Arduino
+# Bluetooth Arduino Car
+Carrinho controlado por bluetooth e utilizando Arduino
